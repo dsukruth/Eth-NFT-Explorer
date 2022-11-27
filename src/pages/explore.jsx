@@ -18,7 +18,7 @@ const Explore = () => {
                 <div className='flex flex-col items-center mb-12'>
                     <div className='mb-16 text-white text-center'>
                         <h1 className='text-5xl  font-bold font-body mb-2'>
-                            Alchemy NFT Explorer
+                            NFT Explorer
                         </h1>
                         <p>An inspector to find NFTs by owner and contract address </p>
                     </div>
